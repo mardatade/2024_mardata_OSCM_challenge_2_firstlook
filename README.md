@@ -16,8 +16,6 @@ Meta Repo for the 2nd Challenge (on Marine Data Fusion) of the 2024 MarDATA proj
   - CVOO time series data (biogeochemical data (ship), currents/temp/sal/o2 (mooring))
   - autonomous surface vehicle (Saildrone/Wave Glider) data: temp/sal/bgc
   - gridded atmospheric, hydrographic and biogeochemical Copernicus Marine Data
-    
-- Products:
   - gridded high-resolution ocean-circulation data VIKING20X
  
 - Scope: The goal of this challenge is to practice the integration of existing marine data sets (in-situ point data, in-situ time-series, gridded fields, along-track data) around the Cape Verde Islands in a way that allows for joint analysis. Solution can include visualization with existing infrastructure (e.g. Digital Earth Viewer, BELUGA), as well as further analysis using, e.g., machine learning methods. Particular attention should be paid to linking existing biomass data, hydroacoustic and (simulated) ocean circulation data. It would also be desirable to develop a blueprint for the integration of new/further data.
