@@ -9,6 +9,7 @@ Meta Repo for the 2nd Challenge (on Marine Data Fusion) of the 2024 MarDATA proj
    - Nuno Vieira (?)
    - Lucileida Ramos (UTA) (?)
    - Matthias Schaber (?)
+   - Elizandro Rodrigues (IMAR)
 
 - Data and products:
   - hydroacoustic biomass data (XY campaigns)
