@@ -25,3 +25,7 @@ Potential fields of activity during the project week:
   - ML/AI-driven Biomass prediction based on location, hydrographic parameters (temperature / salinity) and bio-geo-chemical parameters (oxygen, nutrients, ...)
   - ML/AI-driven imputation of data
   - Uncertainty estimation based on data from different sources
+
+## First Look at incoming data
+
+There's a directory [notebooks/firstlook](notebooks/firstlook) which contains some rough first steps looking at the data.
