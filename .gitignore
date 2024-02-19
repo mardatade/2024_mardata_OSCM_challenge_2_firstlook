@@ -1,3 +1,4 @@
 *.sif
 *.nc
+*.zarr
 .ipynb_checkpoints
