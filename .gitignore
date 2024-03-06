@@ -2,3 +2,5 @@
 *.nc
 *.zarr
 .ipynb_checkpoints
+*.log
+*.out
